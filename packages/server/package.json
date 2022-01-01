@@ -1,0 +1,12 @@
+{
+	"name": "@boilerplate/server",
+	"version": "1.0.0",
+	"scripts": {
+		"build": "tsc",
+		"dev": "nodemon src/index.ts",
+		"test": "echo hi from server"
+	},
+	"dependencies": {
+		"@boilerplate/shared": "^1.0.0"
+	}
+}
