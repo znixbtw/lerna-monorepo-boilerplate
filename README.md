@@ -1,4 +1,4 @@
-# Boilerplate [W.I.P]
+# Boilerplate
 **NOTE: THIS IS MY TIME WORKING WITH MONOREPO, HENCE THE CODE/CONFIG MAY NOT BE THE BEST/OPTIMIZED.**
 ___
 ### Configured With
